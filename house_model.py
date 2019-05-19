@@ -154,6 +154,7 @@ if __name__ == '__main__':
     # output_no_windows.to_csv('outputs/hot_outside_no_windows_output.csv')
 
 
+
 # class HouseModel(object):
 #     def __init__(self, data):
 #         self.df_data = pd.read_csv(data)
